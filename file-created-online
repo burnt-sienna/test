@@ -4,3 +4,5 @@ the online version should be updated after an explicit commit.
 test it now..
 
 yes that worked - now test that the version on the pc is updated with this line.
+
+Is there a way that the local master branch gets a message automatically to say that a file has changed?
